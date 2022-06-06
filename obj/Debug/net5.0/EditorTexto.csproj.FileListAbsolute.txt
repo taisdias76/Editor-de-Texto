@@ -1,0 +1,16 @@
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.exe
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.deps.json
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.json
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.runtimeconfig.dev.json
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.dll
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\ref\EditorTexto.dll
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\bin\Debug\net5.0\EditorTexto.pdb
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.AssemblyReference.cache
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfoInputs.cache
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.AssemblyInfo.cs
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.dll
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\ref\EditorTexto.dll
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.pdb
+C:\Dev\Balta.io\Projetos\Fundamentos do C#\EditorTexto\EditorTexto\obj\Debug\net5.0\EditorTexto.genruntimeconfig.cache
